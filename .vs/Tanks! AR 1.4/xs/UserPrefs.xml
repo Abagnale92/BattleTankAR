@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5098F41D-3A1D-A686-4824-6D5DE217D053}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Progetto/Scripts/PowerUp1.cs">
+    <Files>
+      <File FileName="Assets/Progetto/Scripts/PowerUp1.cs" Line="39" Column="67" />
+      <File FileName="Assets/Progetto/Scripts/Player/FuocoTouch.cs" Line="58" Column="103" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

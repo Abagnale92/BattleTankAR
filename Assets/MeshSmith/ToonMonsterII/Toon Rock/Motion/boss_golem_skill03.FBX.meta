@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 96b4ec34c766d3f42a4b2209b10ada70
+timeCreated: 1535761752
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 HeadNub
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger0Nub
+    100014: Bip01 L Finger1
+    100016: Bip01 L Finger1Nub
+    100018: Bip01 L Finger2
+    100020: Bip01 L Finger2Nub
+    100022: Bip01 L Foot
+    100024: Bip01 L Forearm
+    100026: Bip01 L Hand
+    100028: Bip01 L Thigh
+    100030: Bip01 L Toe0
+    100032: Bip01 L Toe0Nub
+    100034: Bip01 L UpperArm
+    100036: Bip01 Neck
+    100038: Bip01 Pelvis
+    100040: Bip01 R Calf
+    100042: Bip01 R Clavicle
+    100044: Bip01 R Finger0
+    100046: Bip01 R Finger0Nub
+    100048: Bip01 R Finger1
+    100050: Bip01 R Finger1Nub
+    100052: Bip01 R Finger2
+    100054: Bip01 R Finger2Nub
+    100056: Bip01 R Foot
+    100058: Bip01 R Forearm
+    100060: Bip01 R Hand
+    100062: Bip01 R Thigh
+    100064: Bip01 R Toe0
+    100066: Bip01 R Toe0Nub
+    100068: Bip01 R UpperArm
+    100070: Bip01 Spine
+    100072: Bip01 Spine1
+    100074: //RootNode
+    100076: Circle_arm_L01
+    100078: Circle_arm_L02
+    100080: Circle_arm_L03
+    100082: Circle_arm_R01
+    100084: Circle_arm_R02
+    100086: Circle_arm_R03
+    100088: Dummy01
+    100090: Dummy02
+    100092: Dummy03
+    100094: Dummy04
+    100096: Dummy05
+    100098: Dummy06
+    100100: Dummy07
+    100102: Dummy08
+    100104: Dummy09
+    100106: Dummy10
+    100108: Dummy11
+    100110: Dummy12
+    100112: Dummy13
+    100114: Dummy14
+    100116: Dummy17
+    100118: Dummy18
+    100120: Dummy19
+    100122: Dummy20
+    100124: Dummy24
+    100126: Dummy25
+    100128: Dummy26
+    100130: Dummy27
+    100132: Dummy28
+    100134: Dummy31
+    100136: Dummy32
+    100138: Dummy35
+    100140: Dummy36
+    100142: Dummy37
+    100144: Dummy38
+    100146: Dummy39
+    100148: Dummy40
+    100150: Dummy41
+    100152: Dummy42
+    100154: Dummy43
+    100156: Dummy44
+    100158: Dummy45
+    100160: Dummy46
+    100162: Dummy47
+    100164: Dummy48
+    100166: Dummy_toe_L01
+    100168: Dummy_toe_L02
+    100170: Dummy_toe_L03
+    100172: Dummy_toe_R01
+    100174: Dummy_toe_R02
+    100176: Dummy_toe_R03
+    100178: smallstone_l01
+    100180: smallstone_l02
+    100182: smallstone_l03
+    100184: smallstone_l04
+    100186: smallstone_r01
+    100188: smallstone_r02
+    100190: smallstone_r03
+    100192: smallstone_r04
+    100194: smallstone_r05
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 HeadNub
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger0Nub
+    400014: Bip01 L Finger1
+    400016: Bip01 L Finger1Nub
+    400018: Bip01 L Finger2
+    400020: Bip01 L Finger2Nub
+    400022: Bip01 L Foot
+    400024: Bip01 L Forearm
+    400026: Bip01 L Hand
+    400028: Bip01 L Thigh
+    400030: Bip01 L Toe0
+    400032: Bip01 L Toe0Nub
+    400034: Bip01 L UpperArm
+    400036: Bip01 Neck
+    400038: Bip01 Pelvis
+    400040: Bip01 R Calf
+    400042: Bip01 R Clavicle
+    400044: Bip01 R Finger0
+    400046: Bip01 R Finger0Nub
+    400048: Bip01 R Finger1
+    400050: Bip01 R Finger1Nub
+    400052: Bip01 R Finger2
+    400054: Bip01 R Finger2Nub
+    400056: Bip01 R Foot
+    400058: Bip01 R Forearm
+    400060: Bip01 R Hand
+    400062: Bip01 R Thigh
+    400064: Bip01 R Toe0
+    400066: Bip01 R Toe0Nub
+    400068: Bip01 R UpperArm
+    400070: Bip01 Spine
+    400072: Bip01 Spine1
+    400074: //RootNode
+    400076: Circle_arm_L01
+    400078: Circle_arm_L02
+    400080: Circle_arm_L03
+    400082: Circle_arm_R01
+    400084: Circle_arm_R02
+    400086: Circle_arm_R03
+    400088: Dummy01
+    400090: Dummy02
+    400092: Dummy03
+    400094: Dummy04
+    400096: Dummy05
+    400098: Dummy06
+    400100: Dummy07
+    400102: Dummy08
+    400104: Dummy09
+    400106: Dummy10
+    400108: Dummy11
+    400110: Dummy12
+    400112: Dummy13
+    400114: Dummy14
+    400116: Dummy17
+    400118: Dummy18
+    400120: Dummy19
+    400122: Dummy20
+    400124: Dummy24
+    400126: Dummy25
+    400128: Dummy26
+    400130: Dummy27
+    400132: Dummy28
+    400134: Dummy31
+    400136: Dummy32
+    400138: Dummy35
+    400140: Dummy36
+    400142: Dummy37
+    400144: Dummy38
+    400146: Dummy39
+    400148: Dummy40
+    400150: Dummy41
+    400152: Dummy42
+    400154: Dummy43
+    400156: Dummy44
+    400158: Dummy45
+    400160: Dummy46
+    400162: Dummy47
+    400164: Dummy48
+    400166: Dummy_toe_L01
+    400168: Dummy_toe_L02
+    400170: Dummy_toe_L03
+    400172: Dummy_toe_R01
+    400174: Dummy_toe_R02
+    400176: Dummy_toe_R03
+    400178: smallstone_l01
+    400180: smallstone_l02
+    400182: smallstone_l03
+    400184: smallstone_l04
+    400186: smallstone_r01
+    400188: smallstone_r02
+    400190: smallstone_r03
+    400192: smallstone_r04
+    400194: smallstone_r05
+    2300000: smallstone_l01
+    2300002: smallstone_l02
+    2300004: smallstone_l03
+    2300006: smallstone_l04
+    2300008: smallstone_r01
+    2300010: smallstone_r02
+    2300012: smallstone_r03
+    2300014: smallstone_r04
+    2300016: smallstone_r05
+    3300000: smallstone_l01
+    3300002: smallstone_l02
+    3300004: smallstone_l03
+    3300006: smallstone_l04
+    3300008: smallstone_r01
+    3300010: smallstone_r02
+    3300012: smallstone_r03
+    3300014: smallstone_r04
+    3300016: smallstone_r05
+    4300000: smallstone_l04
+    4300002: smallstone_l03
+    4300004: smallstone_l01
+    4300006: smallstone_l02
+    4300008: smallstone_r04
+    4300010: smallstone_r03
+    4300012: smallstone_r02
+    4300014: smallstone_r05
+    4300016: smallstone_r01
+    7400000: Take 001
+    7400002: boss_golem_skill03
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: boss_golem_skill03
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

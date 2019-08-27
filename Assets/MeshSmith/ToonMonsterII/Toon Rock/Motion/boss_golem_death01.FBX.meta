@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 122a0277cf23ac949924d2ff8d9aba5d
+timeCreated: 1535761750
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_l
+    100002: arm_r
+    100004: Bip01
+    100006: Bip01 Head
+    100008: Bip01 HeadNub
+    100010: Bip01 L Calf
+    100012: Bip01 L Clavicle
+    100014: Bip01 L Finger0
+    100016: Bip01 L Finger0Nub
+    100018: Bip01 L Finger1
+    100020: Bip01 L Finger1Nub
+    100022: Bip01 L Finger2
+    100024: Bip01 L Finger2Nub
+    100026: Bip01 L Foot
+    100028: Bip01 L Forearm
+    100030: Bip01 L Hand
+    100032: Bip01 L Thigh
+    100034: Bip01 L Toe0
+    100036: Bip01 L Toe0Nub
+    100038: Bip01 L UpperArm
+    100040: Bip01 Neck
+    100042: Bip01 Pelvis
+    100044: Bip01 R Calf
+    100046: Bip01 R Clavicle
+    100048: Bip01 R Finger0
+    100050: Bip01 R Finger0Nub
+    100052: Bip01 R Finger1
+    100054: Bip01 R Finger1Nub
+    100056: Bip01 R Finger2
+    100058: Bip01 R Finger2Nub
+    100060: Bip01 R Foot
+    100062: Bip01 R Forearm
+    100064: Bip01 R Hand
+    100066: Bip01 R Thigh
+    100068: Bip01 R Toe0
+    100070: Bip01 R Toe0Nub
+    100072: Bip01 R UpperArm
+    100074: Bip01 Spine
+    100076: Bip01 Spine1
+    100078: //RootNode
+    100080: Dummy01
+    100082: Dummy02
+    100084: Dummy03
+    100086: Dummy04
+    100088: Dummy05
+    100090: Dummy06
+    100092: Dummy07
+    100094: Dummy08
+    100096: Dummy09
+    100098: Dummy10
+    100100: Dummy11
+    100102: Dummy12
+    100104: Dummy13
+    100106: Dummy14
+    100108: Dummy17
+    100110: Dummy18
+    100112: Dummy19
+    100114: Dummy20
+    100116: Dummy24
+    100118: Dummy25
+    100120: Dummy26
+    100122: Dummy27
+    100124: Dummy28
+    100126: Dummy31
+    100128: Dummy32
+    100130: Dummy35
+    100132: Dummy36
+    100134: Dummy37
+    100136: Dummy38
+    100138: Dummy39
+    100140: Dummy40
+    100142: Dummy41
+    100144: Dummy42
+    100146: Dummy43
+    100148: Dummy44
+    100150: Dummy45
+    100152: Dummy46
+    100154: Dummy47
+    100156: Dummy48
+    100158: Dummy_toe_L01
+    100160: Dummy_toe_L02
+    100162: Dummy_toe_L03
+    100164: Dummy_toe_R01
+    100166: Dummy_toe_R02
+    100168: Dummy_toe_R03
+    100170: face
+    100172: finger_l01
+    100174: finger_l02
+    100176: finger_r01
+    100178: finger_r02
+    100180: foot_l
+    100182: foot_r
+    100184: hand_l
+    100186: hand_r
+    100188: knee_l
+    100190: knee_r
+    100192: leg_l
+    100194: reg_r
+    100196: shoulder_l
+    100198: shoulder_r
+    100200: smallstone_l01
+    100202: smallstone_l02
+    100204: smallstone_l03
+    100206: smallstone_l04
+    100208: smallstone_r01
+    100210: smallstone_r02
+    100212: smallstone_r03
+    100214: smallstone_r04
+    100216: smallstone_r05
+    100218: spine_01
+    100220: spine_03
+    100222: thumb_l
+    100224: thumb_r
+    100226: toe_l04
+    100228: toe_l05
+    100230: toe_l06
+    100232: toe_r01
+    100234: toe_r02
+    100236: toe_r03
+    400000: arm_l
+    400002: arm_r
+    400004: Bip01
+    400006: Bip01 Head
+    400008: Bip01 HeadNub
+    400010: Bip01 L Calf
+    400012: Bip01 L Clavicle
+    400014: Bip01 L Finger0
+    400016: Bip01 L Finger0Nub
+    400018: Bip01 L Finger1
+    400020: Bip01 L Finger1Nub
+    400022: Bip01 L Finger2
+    400024: Bip01 L Finger2Nub
+    400026: Bip01 L Foot
+    400028: Bip01 L Forearm
+    400030: Bip01 L Hand
+    400032: Bip01 L Thigh
+    400034: Bip01 L Toe0
+    400036: Bip01 L Toe0Nub
+    400038: Bip01 L UpperArm
+    400040: Bip01 Neck
+    400042: Bip01 Pelvis
+    400044: Bip01 R Calf
+    400046: Bip01 R Clavicle
+    400048: Bip01 R Finger0
+    400050: Bip01 R Finger0Nub
+    400052: Bip01 R Finger1
+    400054: Bip01 R Finger1Nub
+    400056: Bip01 R Finger2
+    400058: Bip01 R Finger2Nub
+    400060: Bip01 R Foot
+    400062: Bip01 R Forearm
+    400064: Bip01 R Hand
+    400066: Bip01 R Thigh
+    400068: Bip01 R Toe0
+    400070: Bip01 R Toe0Nub
+    400072: Bip01 R UpperArm
+    400074: Bip01 Spine
+    400076: Bip01 Spine1
+    400078: //RootNode
+    400080: Dummy01
+    400082: Dummy02
+    400084: Dummy03
+    400086: Dummy04
+    400088: Dummy05
+    400090: Dummy06
+    400092: Dummy07
+    400094: Dummy08
+    400096: Dummy09
+    400098: Dummy10
+    400100: Dummy11
+    400102: Dummy12
+    400104: Dummy13
+    400106: Dummy14
+    400108: Dummy17
+    400110: Dummy18
+    400112: Dummy19
+    400114: Dummy20
+    400116: Dummy24
+    400118: Dummy25
+    400120: Dummy26
+    400122: Dummy27
+    400124: Dummy28
+    400126: Dummy31
+    400128: Dummy32
+    400130: Dummy35
+    400132: Dummy36
+    400134: Dummy37
+    400136: Dummy38
+    400138: Dummy39
+    400140: Dummy40
+    400142: Dummy41
+    400144: Dummy42
+    400146: Dummy43
+    400148: Dummy44
+    400150: Dummy45
+    400152: Dummy46
+    400154: Dummy47
+    400156: Dummy48
+    400158: Dummy_toe_L01
+    400160: Dummy_toe_L02
+    400162: Dummy_toe_L03
+    400164: Dummy_toe_R01
+    400166: Dummy_toe_R02
+    400168: Dummy_toe_R03
+    400170: face
+    400172: finger_l01
+    400174: finger_l02
+    400176: finger_r01
+    400178: finger_r02
+    400180: foot_l
+    400182: foot_r
+    400184: hand_l
+    400186: hand_r
+    400188: knee_l
+    400190: knee_r
+    400192: leg_l
+    400194: reg_r
+    400196: shoulder_l
+    400198: shoulder_r
+    400200: smallstone_l01
+    400202: smallstone_l02
+    400204: smallstone_l03
+    400206: smallstone_l04
+    400208: smallstone_r01
+    400210: smallstone_r02
+    400212: smallstone_r03
+    400214: smallstone_r04
+    400216: smallstone_r05
+    400218: spine_01
+    400220: spine_03
+    400222: thumb_l
+    400224: thumb_r
+    400226: toe_l04
+    400228: toe_l05
+    400230: toe_l06
+    400232: toe_r01
+    400234: toe_r02
+    400236: toe_r03
+    2300000: arm_l
+    2300002: arm_r
+    2300004: face
+    2300006: finger_l01
+    2300008: finger_l02
+    2300010: finger_r01
+    2300012: finger_r02
+    2300014: foot_l
+    2300016: foot_r
+    2300018: hand_l
+    2300020: hand_r
+    2300022: knee_l
+    2300024: knee_r
+    2300026: leg_l
+    2300028: reg_r
+    2300030: shoulder_l
+    2300032: shoulder_r
+    2300034: smallstone_l01
+    2300036: smallstone_l02
+    2300038: smallstone_l03
+    2300040: smallstone_l04
+    2300042: smallstone_r01
+    2300044: smallstone_r02
+    2300046: smallstone_r03
+    2300048: smallstone_r04
+    2300050: smallstone_r05
+    2300052: spine_01
+    2300054: spine_03
+    2300056: thumb_l
+    2300058: thumb_r
+    2300060: toe_l04
+    2300062: toe_l05
+    2300064: toe_l06
+    2300066: toe_r01
+    2300068: toe_r02
+    2300070: toe_r03
+    3300000: arm_l
+    3300002: arm_r
+    3300004: face
+    3300006: finger_l01
+    3300008: finger_l02
+    3300010: finger_r01
+    3300012: finger_r02
+    3300014: foot_l
+    3300016: foot_r
+    3300018: hand_l
+    3300020: hand_r
+    3300022: knee_l
+    3300024: knee_r
+    3300026: leg_l
+    3300028: reg_r
+    3300030: shoulder_l
+    3300032: shoulder_r
+    3300034: smallstone_l01
+    3300036: smallstone_l02
+    3300038: smallstone_l03
+    3300040: smallstone_l04
+    3300042: smallstone_r01
+    3300044: smallstone_r02
+    3300046: smallstone_r03
+    3300048: smallstone_r04
+    3300050: smallstone_r05
+    3300052: spine_01
+    3300054: spine_03
+    3300056: thumb_l
+    3300058: thumb_r
+    3300060: toe_l04
+    3300062: toe_l05
+    3300064: toe_l06
+    3300066: toe_r01
+    3300068: toe_r02
+    3300070: toe_r03
+    4300000: face
+    4300002: thumb_l
+    4300004: finger_l01
+    4300006: finger_l02
+    4300008: hand_l
+    4300010: smallstone_l04
+    4300012: smallstone_l03
+    4300014: arm_l
+    4300016: shoulder_l
+    4300018: smallstone_l01
+    4300020: smallstone_l02
+    4300022: thumb_r
+    4300024: finger_r01
+    4300026: finger_r02
+    4300028: hand_r
+    4300030: smallstone_r04
+    4300032: smallstone_r03
+    4300034: arm_r
+    4300036: shoulder_r
+    4300038: smallstone_r02
+    4300040: smallstone_r05
+    4300042: smallstone_r01
+    4300044: spine_01
+    4300046: toe_l06
+    4300048: toe_l05
+    4300050: toe_l04
+    4300052: foot_l
+    4300054: leg_l
+    4300056: knee_l
+    4300058: toe_r03
+    4300060: toe_r02
+    4300062: toe_r01
+    4300064: foot_r
+    4300066: reg_r
+    4300068: knee_r
+    4300070: spine_03
+    7400000: Take 001
+    7400002: boss_golem_death01
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: boss_golem_death01
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

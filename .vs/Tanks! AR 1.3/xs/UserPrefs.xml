@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4181DEB5-95BC-11B0-5764-0953F518FBE8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Progetto/Scripts/Bersaglio/MovimentoB.cs">
+    <Files>
+      <File FileName="Assets/Progetto/Scripts/Bersaglio/MovimentoB.cs" Line="30" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

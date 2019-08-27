@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{99008C47-CAC0-D573-75A0-42FE318BD827}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Progetto/Connessione/Script nuovi/PlayerNetwork.cs">
+    <Files>
+      <File FileName="Assets/Progetto/Connessione/Script nuovi/PlayerNetwork.cs" Line="33" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

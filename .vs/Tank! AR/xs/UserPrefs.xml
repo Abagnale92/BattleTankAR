@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3CCE1FD8-43DF-D235-D7DE-A6021C57677D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Progetto/Scripts/Shell/FiglioTerreno.cs">
+    <Files>
+      <File FileName="Assets/Progetto/Scripts/Aereo/MovePlane.cs" Line="13" Column="50" />
+      <File FileName="Assets/Progetto/Scripts/Player/FuocoTouch.cs" Line="7" Column="30" />
+      <File FileName="Assets/Progetto/Scripts/Player/FuocoTouch2.cs" Line="10" Column="32" />
+      <File FileName="Assets/Progetto/Scripts/Shell/FiglioTerreno.cs" Line="13" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B014B546-5A7F-DBE3-4557-484AFDC7534E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Progetto/Scripts/Player/AggiustaTrasformata.cs">
+    <Files>
+      <File FileName="Assets/Progetto/Scripts/Player/AggiustaTrasformata.cs" Line="9" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

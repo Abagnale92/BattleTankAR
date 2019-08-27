@@ -1,0 +1,10 @@
+To use the post processing : juste download the post processing stack on the asset store,
+it's free! Just go in the Post processing profile folder to find the profile I used.
+
+You can drag and drop the prefab directly into your scene.
+
+Thanks for your purchase!
+
+Nauthilus Games.
+
+Contact : nauthilusgames@gmail.com

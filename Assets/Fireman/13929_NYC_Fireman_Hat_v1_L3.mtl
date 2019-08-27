@@ -1,0 +1,62 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.03.2012 13:36:08
+
+newmtl Fireman_Hat_detail
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5529 0.2549 0.0588
+	Kd 0.5529 0.2549 0.0588
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Fireman_Hat_detail.jpg
+	map_Kd Fireman_Hat_detail.jpg
+	map_bump Fireman_Hat_detail_bump.jpg
+	bump Fireman_Hat_detail_bump.jpg
+
+newmtl Fireman_Hat_body
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.8100 0.8100 0.8100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Fireman_Hat_body.jpg
+	map_Kd Fireman_Hat_body.jpg
+	map_bump Fireman_Hat_body_bump.jpg
+	bump Fireman_Hat_body_bump.jpg
+
+newmtl Fireman_Hat_glass
+	Ns 50.0000
+	Ni 1.0000
+	d 0.3200
+	Tr 0.6800
+	Tf 0.3200 0.3200 0.3200 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.3420 0.3420 0.3420
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Fireman_Hat_logo
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.2700 0.2700 0.2700
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Fireman_Hat_logo.jpg
+	map_Kd Fireman_Hat_logo.jpg
+	map_bump Fireman_Hat_logo_bump.jpg
+	bump Fireman_Hat_logo_bump.jpg
