@@ -6,3 +6,5 @@ You can try the Android version: https://github.com/Abagnale92/BattleTankAR/tree
 Important! If you want play, you need install the app in two different device, the devices must be networked.
 
 C# script: https://github.com/Abagnale92/BattleTankAR/tree/master/Assets/Progetto/Scripts
+
+Video: https://github.com/Abagnale92/BattleTankAR/tree/master/Video
